@@ -9,9 +9,8 @@ Alle Repos sind privat. Ihr müsst mir also einfach glauben, dass da was drin is
 #### Gerade dran
 
 - **Steuerassistent** ![live](https://img.shields.io/badge/live-2ea44f?style=flat) - sagt mir jeden Tag, wie viel von meinem Geld schon dem Finanzamt gehört.
-- **Elblauf** ![wip](https://img.shields.io/badge/wip-gold?style=flat) - KI-Agenten erledigen Büroarbeit. Ich gucke zu.
 - **GYME** ![wip](https://img.shields.io/badge/wip-gold?style=flat) - Gym-App für iOS. Der KI-Coach hat Meinungen zu deinem Beintag.
-- **Lumen** ![live](https://img.shields.io/badge/live-2ea44f?style=flat) - Börsen-Dashboard. Ausdrücklich keine Anlageberatung, auch nicht für mich.
+- **CopyPal** ![live](https://img.shields.io/badge/live-2ea44f?style=flat) - Kopiert alles und sortiert mein Chaos. Kopiert alles und sortiert mein Chaos. Kopiert alles und sortiert mein Chaos.
 
 Dazu knapp 50 weitere Projekte. Ein paar sind fertig, der Rest ist fast fertig.
 
